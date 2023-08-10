@@ -1,2 +1,3 @@
-# pyth
+# Python Files
+Repository for python exercises.
  
